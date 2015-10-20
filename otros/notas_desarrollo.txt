@@ -1,3 +1,4 @@
+--------- USO DE GEE DESDE LOCALHOST --------
 Para usar ee desde mi localhost debo crearme un id de cliente para autemticacion con oauth, esto se detalla en:
 	https://developers.google.com/earth-engine/app_engine_intro
 En la seccion 'OAuth 2.0 Client ID'
@@ -13,3 +14,6 @@ Para importar shp a GEE se debe convertir a kml y luego importar como fusiontabl
 
 o se puede ver los pasos en la seccion 'Importing Vector data...':
 	https://developers.google.com/earth-engine/importing
+
+El archivo kml subido se sube a la cuenta de google drive la cual se la puede abrir como archivo de 'Google Table Fusion'
+desde la cual se puede obtener su ID el cual servira para manejarlo desde el codigo.
