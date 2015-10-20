@@ -1,0 +1,26 @@
+STA EL LA PRIMERA PAGINA QUE DEBERÁS REVISAR, DENTRO DE ESTAS SE ENCUENTRAN TODAS IGUAL COMO ACORDAMOS TE MANDO CADA PAGINA.
+
+http://www.google.com/earth/outreach/tutorials/eartheng_gettingstarted.html
+
+Y AQUÍ VAN PARA QUE PUNTUALICEMOS: 
+
+A:
+
+https://developers.google.com/earth-engine/
+
+
+B: 
+
+https://ee-api.appspot.com/
+
+C:
+
+Para usuarios normales:
+	https://earthengine.google.org/#intro
+
+D:
+
+https://www.google.com/earth/outreach/tutorials/#odk
+
+
+PD: en el enlace "C" también se encuentra la opción para que puedas registrarte

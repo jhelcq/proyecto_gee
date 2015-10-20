@@ -1,0 +1,11 @@
+Proyecto console
+	cobuso
+
+Proyecto en eartch
+	cobuso_1
+
+ic cliente:
+626376553896-eutkb83dpejjj9ajphdrtci2a47hbv3r.apps.googleusercontent.com 
+
+secreto de cliente:
+	GH9SVhoXYAntiz9H4ps-QpOq 

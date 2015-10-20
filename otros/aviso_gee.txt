@@ -1,0 +1,22 @@
+
+Important message to our users
+
+On January 29, 2016, we will end support for the Google Maps Engine (GME) product. You will be able to use your existing GME project as well as the GME API through this date. After January 29, 2016, however, GME will be deactivated and no longer available for use. Note that this is a different product from Google Earth Engine. Google Maps Engine has been the primary method through which Earth Engine users upload their own raster data for analysis in Earth Engine. My Maps (formerly Google Maps Engine Lite) is not affected and will remain available.
+
+Other than the impact on users with their own raster data, this announcement has no impact on Earth Engine users. Google is continuing to invest in Earth Engine, and the Earth Engine product will continue to be developed. While free signups for standard Google Maps Engine accounts will no longer be available, effective immediately, new Earth Engine sign-ups will still be accessible through this page.
+
+Your GME project will be available for use through January 29, 2016. Access to your GME raster data via Earth Engine will continue to be available throughout this time, as will the GME API. The Earth Engine team is also hard at work investigating alternatives for hosting of your raster data, but we do not have anything to announce at this time.
+
+If you are using this Maps Engine account for uses other than solely providing access to Earth Engine, please find potential alternative solutions for some GME use cases below (additional options will be added as they are scoped):
+
+    Create a map using Google My Maps
+    Building spatial applications with Google Cloud SQL and Google Maps API
+    Serving raster layers on Google Cloud Platform
+    Building a store locator with the Google Maps API and Cloud SQL
+
+By default, Google will remove any data from your GME project once support ends on January 29, 2016. Please review this technical whitepaper for more details on data removal. Data may be exported from your GME project using the instructions in this Help Center article. You may also export data from GME to Google Cloud SQL using interoperability software such as Geospatial Data Abstraction Library (GDAL) or Safe Software FME Desktop. Visit this Help Center article for more information on FME Desktop.
+
+For questions about Maps Engine, please see the Google Maps Engine Users group.
+
+For questions about Earth Engine, please see the Google Earth Engine Developers group or the Google Earth Engine FAQ.
+
