@@ -24,3 +24,10 @@ https://www.google.com/earth/outreach/tutorials/#odk
 
 
 PD: en el enlace "C" también se encuentra la opción para que puedas registrarte
+
+ID del producto imagen:
+	ESA/GLOBCOVER_L4_200901_200912_V2_3
+
+Santa cruz
+	long:-63.17138671875
+	​Latitude: -17.832374329567507
