@@ -31,3 +31,6 @@ ID del producto imagen:
 Santa cruz
 	long:-63.17138671875
 	​Latitude: -17.832374329567507
+
+canton satnac crus kml
+	1bwUyBDitRcoB6wu1WRIudDYFDvexu7voD-WTAzqf
