@@ -15,5 +15,7 @@ Para importar shp a GEE se debe convertir a kml y luego importar como fusiontabl
 o se puede ver los pasos en la seccion 'Importing Vector data...':
 	https://developers.google.com/earth-engine/importing
 
-El archivo kml subido se sube a la cuenta de google drive la cual se la puede abrir como archivo de 'Google Table Fusion'
+O de forma mas sencilla se puede subir a la cuenta de google drive como archivo google fusion table.
+
+El archivo kml subido se sube a la cuenta de google drive la cual se la puede abrir como archivo de 'Google  Fusion Table'
 desde la cual se puede obtener su ID el cual servira para manejarlo desde el codigo.
