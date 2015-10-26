@@ -25,7 +25,7 @@ https://www.google.com/earth/outreach/tutorials/#odk
 
 PD: en el enlace "C" también se encuentra la opción para que puedas registrarte
 
-ID del producto imagen:
+ID del producto imagen de cobertura:
 	ESA/GLOBCOVER_L4_200901_200912_V2_3
 
 Santa cruz
@@ -34,3 +34,15 @@ Santa cruz
 
 canton satnac crus kml
 	1bwUyBDitRcoB6wu1WRIudDYFDvexu7voD-WTAzqf
+
+kml bolivia:
+	1RxLMu2UiIzvtVd-WqmnKRp7Vjob0JyKEiG2nxTeL
+
+Landsat 8 8-Day TOA Reflectance Composite
+USGS Landsat 8 TOA Reflectance (Orthorectified)
+
+Imagenes reproducidas como video de diferentes gestiones de cobertura
+
+
+Tarea 2:
+ Filtrar las imagenes landsat por nivel de cobertura de nubes(porcentaje) y por fechas.
