@@ -28,21 +28,28 @@ PD: en el enlace "C" también se encuentra la opción para que puedas registrart
 ID del producto imagen de cobertura:
 	ESA/GLOBCOVER_L4_200901_200912_V2_3
 
+kml bolivia:
+	1RxLMu2UiIzvtVd-WqmnKRp7Vjob0JyKEiG2nxTeL
+
 Santa cruz
 	long:-63.17138671875
 	​Latitude: -17.832374329567507
+	1eT0En9df3oNiGdA6-93FnYtpXnSqZ6nwtp6nCn3s
 
 canton satnac crus kml
 	1bwUyBDitRcoB6wu1WRIudDYFDvexu7voD-WTAzqf
-
-kml bolivia:
-	1RxLMu2UiIzvtVd-WqmnKRp7Vjob0JyKEiG2nxTeL
 
 Landsat 8 8-Day TOA Reflectance Composite
 USGS Landsat 8 TOA Reflectance (Orthorectified)
 
 Imagenes reproducidas como video de diferentes gestiones de cobertura
 
+Cantidad img de la coleccion de imagenes sgsc en
+ - 377397  sin filtrar
+ - 129803 filtrado por fecha
+ - 16 fecha y canton sc
+ - 432 fecha y sc
+ - 1013 fecha y bolivia
 
 Tarea 2:
  Filtrar las imagenes landsat por nivel de cobertura de nubes(porcentaje) y por fechas.
