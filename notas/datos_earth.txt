@@ -4,8 +4,11 @@ Proyecto console
 Proyecto en eartch
 	cobuso_1
 
-ic cliente:
+ic cliente para js:
 626376553896-eutkb83dpejjj9ajphdrtci2a47hbv3r.apps.googleusercontent.com 
+
+credenciales de autenticacion para python:
+4/GpuSjHtqaYLZtzgp9wPAXt6h5e13pa0PvdtNxUD2RoY
 
 secreto de cliente:
 	GH9SVhoXYAntiz9H4ps-QpOq 
