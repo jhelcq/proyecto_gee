@@ -7,10 +7,7 @@
 
 function cargarVector(idVector){
 	//carga un archivo kml(adicionado a google drive) que tiene un determinado ID
-	return vector = ee.FeatureCollection('ft:'+ idVector); //cargamos el kml de Bolivia
-}
-
-function mostrarRecurso(recurso){
+	return vector = ee.FeatureCollection('ft:'+ idVector); //cargamos un kml
 	Map.addLayer(recurso);  //adiciona el vector, la imagen o la coleccion de imagenes al mapa
 	
 	/*1do par: una imagen, una collecion de imagenes o un vector(feautre collection)
@@ -20,6 +17,5 @@ function mostrarRecurso(recurso){
 }
 
 var vectorBolivia= cargarVector('1RxLMu2UiIzvtVd-WqmnKRp7Vjob0JyKEiG2nxTeL'); //cargamos el vector de Bolivia
-mostrarRecurso(vectorBolivia); //mostramos el vector de Bolivia
 
 
